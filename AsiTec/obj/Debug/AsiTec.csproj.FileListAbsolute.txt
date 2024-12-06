@@ -1,0 +1,34 @@
+C:\Users\DELL PRECISION\Desktop\UAM\1er año\II semestre\Metodologia y Programacion Estructurada\Proyecto Final\Proyecto2\AsiTec\bin\Debug\AsiTec.exe.config
+C:\Users\DELL PRECISION\Desktop\UAM\1er año\II semestre\Metodologia y Programacion Estructurada\Proyecto Final\Proyecto2\AsiTec\bin\Debug\AsiTec.exe
+C:\Users\DELL PRECISION\Desktop\UAM\1er año\II semestre\Metodologia y Programacion Estructurada\Proyecto Final\Proyecto2\AsiTec\bin\Debug\AsiTec.pdb
+C:\Users\DELL PRECISION\Desktop\UAM\1er año\II semestre\Metodologia y Programacion Estructurada\Proyecto Final\Proyecto2\AsiTec\obj\Debug\AsiTec.csproj.AssemblyReference.cache
+C:\Users\DELL PRECISION\Desktop\UAM\1er año\II semestre\Metodologia y Programacion Estructurada\Proyecto Final\Proyecto2\AsiTec\obj\Debug\AsiTec.Form1.resources
+C:\Users\DELL PRECISION\Desktop\UAM\1er año\II semestre\Metodologia y Programacion Estructurada\Proyecto Final\Proyecto2\AsiTec\obj\Debug\AsiTec.Form2.resources
+C:\Users\DELL PRECISION\Desktop\UAM\1er año\II semestre\Metodologia y Programacion Estructurada\Proyecto Final\Proyecto2\AsiTec\obj\Debug\AsiTec.Properties.Resources.resources
+C:\Users\DELL PRECISION\Desktop\UAM\1er año\II semestre\Metodologia y Programacion Estructurada\Proyecto Final\Proyecto2\AsiTec\obj\Debug\AsiTec.csproj.GenerateResource.cache
+C:\Users\DELL PRECISION\Desktop\UAM\1er año\II semestre\Metodologia y Programacion Estructurada\Proyecto Final\Proyecto2\AsiTec\obj\Debug\AsiTec.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRECISION\Desktop\UAM\1er año\II semestre\Metodologia y Programacion Estructurada\Proyecto Final\Proyecto2\AsiTec\obj\Debug\AsiTec.exe
+C:\Users\DELL PRECISION\Desktop\UAM\1er año\II semestre\Metodologia y Programacion Estructurada\Proyecto Final\Proyecto2\AsiTec\obj\Debug\AsiTec.pdb
+C:\Users\DELL PRECISION\Desktop\UAM\1er año\II semestre\Metodologia y Programacion Estructurada\Proyecto Final\Proyecto2\AsiTec\obj\Debug\AsiTec.Form3.resources
+C:\Users\DELL PRECISION\Desktop\UAM\1er año\II semestre\Metodologia y Programacion Estructurada\Proyecto Final\Proyecto2\AsiTec\obj\Debug\AsiTec.Form4.resources
+C:\Users\DELL PRECISION\Desktop\UAM\1er año\II semestre\Metodologia y Programacion Estructurada\Proyecto Final\Proyecto2\AsiTec\obj\Debug\AsiTec.Form5.resources
+C:\Users\DELL PRECISION\Desktop\UAM\1er año\II semestre\Metodologia y Programacion Estructurada\Proyecto Final\Proyecto2\AsiTec\obj\Debug\AsiTec.Form6.resources
+C:\Users\DELL PRECISION\Desktop\UAM\1er año\II semestre\Metodologia y Programacion Estructurada\Proyecto Final\Proyecto2\AsiTec\obj\Debug\AsiTec.Form7.resources
+C:\Users\DELL PRECISION\Desktop\UAM\1er año\II semestre\Metodologia y Programacion Estructurada\Proyecto Final\Proyecto2\AsiTec\obj\Debug\AsiTec.Form8.resources
+C:\Users\Dosso\Downloads\Proyecto2\AsiTec\bin\Debug\AsiTec.exe
+C:\Users\Dosso\Downloads\Proyecto2\AsiTec\bin\Debug\AsiTec.exe.config
+C:\Users\Dosso\Downloads\Proyecto2\AsiTec\obj\Debug\AsiTec.csproj.AssemblyReference.cache
+C:\Users\Dosso\Downloads\Proyecto2\AsiTec\obj\Debug\AsiTec.Form1.resources
+C:\Users\Dosso\Downloads\Proyecto2\AsiTec\obj\Debug\AsiTec.Form2.resources
+C:\Users\Dosso\Downloads\Proyecto2\AsiTec\obj\Debug\AsiTec.Form3.resources
+C:\Users\Dosso\Downloads\Proyecto2\AsiTec\obj\Debug\AsiTec.Form4.resources
+C:\Users\Dosso\Downloads\Proyecto2\AsiTec\obj\Debug\AsiTec.Form5.resources
+C:\Users\Dosso\Downloads\Proyecto2\AsiTec\obj\Debug\AsiTec.Form6.resources
+C:\Users\Dosso\Downloads\Proyecto2\AsiTec\obj\Debug\AsiTec.Form7.resources
+C:\Users\Dosso\Downloads\Proyecto2\AsiTec\obj\Debug\AsiTec.Form8.resources
+C:\Users\Dosso\Downloads\Proyecto2\AsiTec\obj\Debug\AsiTec.Properties.Resources.resources
+C:\Users\Dosso\Downloads\Proyecto2\AsiTec\obj\Debug\AsiTec.csproj.GenerateResource.cache
+C:\Users\Dosso\Downloads\Proyecto2\AsiTec\obj\Debug\AsiTec.csproj.CoreCompileInputs.cache
+C:\Users\Dosso\Downloads\Proyecto2\AsiTec\obj\Debug\AsiTec.exe
+C:\Users\Dosso\Downloads\Proyecto2\AsiTec\obj\Debug\AsiTec.pdb
+C:\Users\Dosso\Downloads\Proyecto2\AsiTec\bin\Debug\AsiTec.pdb
